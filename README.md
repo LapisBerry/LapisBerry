@@ -23,8 +23,10 @@ everyone or anybody who wants my help❤️❤️❤️
   > I'm super active here😁, feel free to direct message me!
 - 📸 instagram `mighty_ikkyu`
   > I'm not very active though.😪
-- 🔥 kaggle _(soon)_
-- 😀 linkedIn _(soon)_
+- 🔥 kaggle `https://www.kaggle.com/kittiphopkhankaew`
+  > I just started using kaggle, I strongly like it!
+- 😀 linkedIn `https://www.linkedin.com/in/kittiphop-khankaew/`
+  > Profile is very empty, soon I will be updating it.
 <!---
 LapisBerry/LapisBerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
