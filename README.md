@@ -44,7 +44,7 @@ This field needs something more interesting!
 
 ### 📫 Contact me ...
 - 📥 Email: [kittiphopkhankaew@gmail.com](mailto:kittiphopkhankaew@gmail.com)
-- 🥰 Discord [blueoflapislazuli](discordapp.com/users/1110214078808461393)
+- 🥰 Discord [blueoflapislazuli](https://discordapp.com/users/1110214078808461393)
 - 📸 Instagram [mighty_ikkyu](https://www.instagram.com/mighty_ikkyu/)
 - 🔥 Kaggle [Kittiphop Khankaew](https://www.kaggle.com/kittiphopkhankaew)
 - 😀 LinkedIn [Kittiphop Khankaew](https://www.linkedin.com/in/kittiphop-khankaew/)
