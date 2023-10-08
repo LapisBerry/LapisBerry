@@ -10,7 +10,7 @@ This section doesn't need anything more.
 ## About Me
 <p>👋 Hi, My name is Ikkyu.</p>
 <p>💻CPE student at Chulalongkorn University.</p>
-<p>🔥Computer Engineering and Digital Technology (CEDT)</p>
+<p>🔥Computer Engineering and Digital Technology (CEDT01)</p>
 <!--
 This section is quite ok. (maybe...)
 -->
