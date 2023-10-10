@@ -29,7 +29,7 @@ This section needs to be reduced. TOO MANY WORDS!!!
 
 ### 🌱 I’m currently learning ...
 <p>I'm learning how to edit my profile to make it look beautiful.🤣🤣🤣</p>
-<p>I'm learning how to make my own website.🔥🔥🔥</p>
+<p>I'm learning how to make my own GitHub page.🔥🔥🔥</p>
 <!--
 This section is great!
 -->
