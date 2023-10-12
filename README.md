@@ -47,13 +47,13 @@ This field needs something more interesting!
 
 ### 📫 Contact me ...
 
-[![Email][email-shield]][email-url] (for work)
+[![Email][email-shield]][email-url] (formal way)
 
 [![Discord][discord-shield]][discord-url] I'd prefer this...
 
 [![Instagram][instagram-shield]][instagram-url] I accept follower request from everyone! and I'll follow you back!
 
-[![Facebook][facebook-shield]][facebook-url] 
+[![Facebook][facebook-shield]][facebook-url] feeling ok about this.
 
 [![LinkedIn][linkedin-shield]][linkedin-url] You probably don't care
 
