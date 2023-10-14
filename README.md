@@ -47,13 +47,13 @@ This field needs something more interesting!
 
 ### 📫 Contact me ...
 
-[![Email][email-shield]][email-url] (for work)
+[![Email][email-shield]][email-url] (formal way)
 
 [![Discord][discord-shield]][discord-url] I'd prefer this...
 
 [![Instagram][instagram-shield]][instagram-url] I accept follower request from everyone! and I'll follow you back!
 
-[![Facebook][facebook-shield]][facebook-url] 
+[![Facebook][facebook-shield]][facebook-url] feeling ok about this.
 
 [![LinkedIn][linkedin-shield]][linkedin-url] You probably don't care
 
@@ -61,7 +61,7 @@ This field needs something more interesting!
 
 [![X][x-shield]][x-url] BRUH💀WHY
 
-[email-shield]: https://img.shields.io/badge/email-kittiphopkhankaew%40gmail.com-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=%23EA4335&labelColor=white
+[email-shield]: https://img.shields.io/badge/Email-kittiphopkhankaew%40gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=%23EA4335
 [email-url]: mailto:kittiphopkhankaew@gmail.com
 
 [discord-shield]: https://img.shields.io/badge/Discord-blueoflapislazuli-white?style=for-the-badge&logo=Discord&logoColor=white&labelColor=%235865F2
@@ -70,14 +70,14 @@ This field needs something more interesting!
 [instagram-shield]: https://img.shields.io/badge/Instagram-mighty__ikkyu-white?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=%23E4405F
 [instagram-url]: https://www.instagram.com/mighty_ikkyu/
 
-[kaggle-shield]: https://img.shields.io/badge/Kaggle-Kittiphop%20Khankaew-%2320BEFF?style=for-the-badge&logo=Kaggle&logoColor=%2320BEFF&labelColor=white
+[kaggle-shield]: https://img.shields.io/badge/Kaggle-Kittiphop_Khankaew-white?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=%2320BEFF
 [kaggle-url]: https://www.kaggle.com/kittiphopkhankaew
 
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-Kittiphop%20Khankaew-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2&labelColor=white
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-Kittiphop_Khankaew-white?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=%230A66C2
 [linkedin-url]: https://www.linkedin.com/in/kittiphop-khankaew/
 
-[x-shield]: https://img.shields.io/badge/-LapixLazulix-white?style=for-the-badge&logo=X&logoColor=white&labelColor=black
+[x-shield]: https://img.shields.io/badge/X-LapixLazulix-white?style=for-the-badge&logo=X&logoColor=white&labelColor=black
 [x-url]: https://twitter.com/LapiXLazuliX
 
-[facebook-shield]: https://img.shields.io/badge/Facebook-Kittiphop%20Khankaew-%231877F2?style=for-the-badge&logo=Facebook&logoColor=%230A66C2&labelColor=white
+[facebook-shield]: https://img.shields.io/badge/Facebook-Kittiphop_Khankaew-white?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=%231877F2
 [facebook-url]: https://www.facebook.com/kittiphop.khankaew.9/
