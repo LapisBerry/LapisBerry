@@ -2,13 +2,14 @@
 <p>
 it's a berry with the color of blue in a variety of lapis lazuli.😅
 </p>
-<!--
-This section doesn't need anything more.
--->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LapisBerry&theme=radical&show_icons=true)
 
 don't let the stats bother you💀
+<!--
+This section doesn't need anything more.
+-->
+
 
 ## About Me
 <p>👋 Hi, My name is Ikkyu.</p>
@@ -60,7 +61,10 @@ This field needs something more interesting!
 [![Kaggle][kaggle-shield]][kaggle-url] Just for fun
 
 [![X][x-shield]][x-url] BRUH💀WHY
+<!--This section is ok-->
 
+
+<!--sources are here-->
 [email-shield]: https://img.shields.io/badge/Email-kittiphopkhankaew%40gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=%23EA4335
 [email-url]: mailto:kittiphopkhankaew@gmail.com
 
