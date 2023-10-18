@@ -32,7 +32,7 @@ This section needs to be reduced. TOO MANY WORDS!!!
 
 
 ### 🌱 I’m currently learning ...
-<p>I'm learning how to make my own GitHub page.🔥🔥🔥</p>
+<p>I'm learning how to make my own GitHub page.🔥🔥🔥 Here is the link https://lapisberry.github.io/</p>
 <!--
 This section is great!
 -->
