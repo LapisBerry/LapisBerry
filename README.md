@@ -60,6 +60,8 @@ This field needs something more interesting!
 [![Kaggle][kaggle-shield]][kaggle-url] Just for fun
 
 [![X][x-shield]][x-url] BRUH💀WHY
+
+[![LeetCode][leetcode-shield]][leetcode-url] It's quite here, I'll focus on grinding soon.
 <!--This section is ok-->
 
 
@@ -84,3 +86,6 @@ This field needs something more interesting!
 
 [facebook-shield]: https://img.shields.io/badge/Facebook-Kittiphop_Khankaew-white?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=%231877F2
 [facebook-url]: https://www.facebook.com/kittiphop.khankaew.9/
+
+[leetcode-shield]: https://img.shields.io/badge/LeetCode-LapisBerry-white?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=%23FFA116
+[leetcode-url]: https://leetcode.com/LapisBerry/
