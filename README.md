@@ -23,9 +23,9 @@ This section is quite ok. (maybe...)
 ### 👀 I’m interested in ...
 <p>🔥I'm kinda versatile. Ready to learn ANYTHING😁</p>
 <p>😍I'M CAPTIVATED BY MATHEMATICS📚, PHYSICS⚛️ AND COMPUTER FIELD💻</p>
-<p>Mainly on 🤖Artificial Intelligence, 💡Machine Learning, 🧠Deep Learning ... Yes!, those kinda stuffs...</p>
+<p>Mainly in 🤖Artificial Intelligence, 💡Machine Learning, 🧠Deep Learning ... Yes!, those kinda stuffs...</p>
 <p>Strongly in 🗂️Data science, ⚙️Hardware, 🦾🤖Robot, 🔐Cybersecurity, pretty much anything could be written here.</p>
-<p>Not doing great in 🌐Web Development and 📄Application Development.</p>
+<p>Not doing great in 🌐Web Development and 📄Application Development. (Doesn't mean I can't work with them!😁)</p>
 <!--
 This section needs to be reduced. TOO MANY WORDS!!!
 -->
