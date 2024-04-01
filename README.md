@@ -89,5 +89,3 @@ This field needs something more interesting!
 
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-LapisBerry-white?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=%23FFA116
 [leetcode-url]: https://leetcode.com/LapisBerry/
-
-Test Commit Bot
