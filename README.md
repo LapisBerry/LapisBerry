@@ -76,4 +76,4 @@ This section needs to be reduced. TOO MANY WORDS!!!
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-LapisBerry-white?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=%23FFA116
 [leetcode-url]: https://leetcode.com/LapisBerry/
 
-![Profile views](https://komarev.com/ghpvc/?username=LapisBerry&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=LapisBerry&color=blueviolet) Started counting since 2024 April 5
