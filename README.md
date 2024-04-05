@@ -10,6 +10,8 @@ it's a berry with the color of blue in a variety of lapis lazuli.😅
 
 don't let the stats bother you💀
 
+BTW I don't usually write JS but why it's the most used language HUH?
+
 ## About Me
 <p>👋 Hi, My name is Ikkyu.</p>
 <p>💻CPE student at Chulalongkorn University.</p>
