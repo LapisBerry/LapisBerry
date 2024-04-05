@@ -3,7 +3,7 @@
 it's a berry with the color of blue in a variety of lapis lazuli.😅
 </p>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=LapisBerry&theme=radical&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LapisBerry&layout=compact&theme=radical"/>
 </div>
