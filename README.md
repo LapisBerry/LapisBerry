@@ -25,6 +25,8 @@ BTW I don't usually write JS but why it's the most used language HUH?
 <p>Strongly in 🗂️Data science, ⚙️Hardware, 🦾🤖Robot, 🔐Cybersecurity, pretty much anything could be written here.</p>
 <p>Not doing great in 🌐Web Development and 📄Application Development. (Doesn't mean I can't work with them!😁)</p>
 
+<!--This section has too many words-->
+
 ### 🌱 I’m currently learning ...
 <p>I'm learning how to make my own GitHub page.🔥🔥🔥 Here is the link https://lapisberry.github.io/</p>
 
