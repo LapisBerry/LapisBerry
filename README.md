@@ -93,6 +93,8 @@ I used to work with it or atleast I know the basic of it!
 
 [![LeetCode][leetcode-shield]][leetcode-url] It's quite here, I'll focus on grinding soon.
 
+![Profile views][profile-view-url] Started counting since 2024 April 5
+
 <!--sources are here-->
 [email-shield]: https://img.shields.io/badge/Email-kittiphopkhankaew%40gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=%23EA4335
 [email-url]: mailto:kittiphopkhankaew@gmail.com
@@ -118,4 +120,5 @@ I used to work with it or atleast I know the basic of it!
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-LapisBerry-white?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=%23FFA116
 [leetcode-url]: https://leetcode.com/LapisBerry/
 
-![Profile views](https://komarev.com/ghpvc/?username=LapisBerry&color=blueviolet) Started counting since 2024 April 5
+[profile-view-url]: https://komarev.com/ghpvc/?username=LapisBerry&color=blueviolet
+
