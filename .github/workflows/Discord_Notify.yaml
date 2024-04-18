@@ -40,7 +40,7 @@ jobs:
           DISCORD_WEBHOOK: 'https://discord.com/api/webhooks/1230579156429967430/u1bs6D3j-swzf5C7tvve3K5MRJpDHhfOVwvi6UK9q008Exe5Wyr-US7CsLF3_GZAebyY'
           DISCORD_AVATAR: 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'
           DISCORD_EMBEDS: '[    { 
-          "author": {  "icon_url": "https://avatars.githubusercontent.com/${{ github.actor }}", "name": "${{ github.actor }}", "url": "https://github.com/${{github.actor}}" },
+          "author": {  "icon_url": "https://avatars.githubusercontent.com/LapisBerry", "name": "${{ github.actor }}", "url": "https://github.com/${{github.actor}}" },
           "url": "https://github.com/${{github.repository}}/commit/${{github.sha}}",
           "fields": [
           { "name": "Repository", "value": "[${{github.event.repository.name}}](${{github.event.repository.clone_url}})", "inline": true },
