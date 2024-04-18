@@ -17,6 +17,8 @@ jobs:
           fetch-depth: 0  # OR "2" -> To retrieve the preceding commit.
       - name: Get changed files
         id: changed-files
+        with:
+            separator: '\n'
         uses: tj-actions/changed-files@v44
       - name: List all changed files
         run: |
