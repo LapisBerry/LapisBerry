@@ -33,21 +33,21 @@ My skills are super versatile. I did a lot of things through out my university.
 
 ### 📫 Contact me ...
 
-[![Email][email-shield]][email-url] (formal way)
+[![Email][email-shield]][email-url]
 
-[![Discord][discord-shield]][discord-url] I'd prefer this...
+[![Discord][discord-shield]][discord-url]
 
-[![Instagram][instagram-shield]][instagram-url] I accept follower request from everyone! and I'll follow you back! (If and only if I know who you are)
+[![Instagram][instagram-shield]][instagram-url]
 
-[![Facebook][facebook-shield]][facebook-url] feeling ok about this.
+[![Facebook][facebook-shield]][facebook-url]
 
-[![LinkedIn][linkedin-shield]][linkedin-url] You probably don't care
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Kaggle][kaggle-shield]][kaggle-url] Just for fun
+[![Kaggle][kaggle-shield]][kaggle-url]
 
-[![X][x-shield]][x-url] BRUH💀WHY
+[![X][x-shield]][x-url]
 
-[![LeetCode][leetcode-shield]][leetcode-url] It's quite here, I'll focus on grinding soon.
+[![LeetCode][leetcode-shield]][leetcode-url]
 
 ![Profile views][profile-view-url] Started counting since 2024 April 5
 
