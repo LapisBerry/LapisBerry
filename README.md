@@ -4,8 +4,8 @@ it's a berry with the color of blue in a variety of lapis lazuli.😅
 </p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LapisBerry&theme=radical&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LapisBerry&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=LapisBerry&theme=radical&show_icons=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LapisBerry&layout=compact&theme=radical"/>
 </div>
 
 ## About Me
